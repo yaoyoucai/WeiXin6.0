@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="text" format="string" />
+    <attr name="myicon" format="reference" />
+    <attr name="text_size" format="dimension" />
+    <attr name="mycolor" format="color" />
+
+    <declare-styleable name="TabViewWithText">
+        <attr name="text" />
+        <attr name="myicon" />
+        <attr name="text_size" />
+        <attr name="mycolor" />
+    </declare-styleable>
+</resources>
